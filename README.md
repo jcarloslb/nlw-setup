@@ -4,5 +4,6 @@
 
 - HTML5
 - CSS
+- Javascript
 - Git e Github
 - Figma
