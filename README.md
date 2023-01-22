@@ -7,3 +7,5 @@
 - Javascript
 - Git e Github
 - Figma
+
+- [Visite o projeto online](https://jcarloslb.github.io/nlw-setup)
